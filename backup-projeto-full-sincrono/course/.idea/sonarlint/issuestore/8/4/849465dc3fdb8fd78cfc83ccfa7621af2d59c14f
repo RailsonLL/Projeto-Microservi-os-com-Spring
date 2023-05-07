@@ -1,0 +1,6 @@
+
+Z
+java:S22593"DA "NullPointerException" could be thrown; "result" is nullable here.(“ñ÷™
+a
+java:S2259-"FA "NullPointerException" could be thrown; "getBody()" can return null.(¾†ÌÑùÿÿÿÿ
+t	java:S116""_Rename this field "REQUEST_URL_AUTHUSER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑšË
